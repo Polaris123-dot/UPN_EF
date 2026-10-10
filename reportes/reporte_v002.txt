@@ -1,0 +1,55 @@
+REPORTE DE ACTUALIZACION DEL CATALOGO
+============================================================
+Fecha: 2026-10-08 11:37:41 (hora del equipo)
+Catalogo original: catalogo_v001.txt
+Archivo de cambios: cambios_ejemplo.csv
+Catalogo generado: catalogo_v002.txt
+
+Productos cargados: 1200
+Productos actualizados: 3
+Filas rechazadas: 7
+Filas sin cambios: 1
+
+CAMBIOS APLICADOS
+------------------------------------------------------------
+Producto: P0001 - Arroz de 1 kg Marca Demo 01
+Fila del CSV: 2
+Cantidad: 50 -> 30
+Precio S/: 5.00 -> 5.50
+
+Producto: P0002 - Aceite de 1 litro Marca Demo 01
+Fila del CSV: 3
+Cantidad: 50 -> 50
+Precio S/: 5.00 -> 6.00
+
+Producto: P0003 - Azucar Marca Demo 01
+Fila del CSV: 4
+Cantidad: 50 -> 0
+Precio S/: 5.00 -> 0.00
+
+REGISTROS RECHAZADOS
+------------------------------------------------------------
+Fila 6 | Codigo: P9999
+Motivo: El codigo no existe en el catalogo.
+
+Fila 7 | Codigo: P0005
+Motivo: La cantidad debe ser un entero mayor o igual a cero.
+
+Fila 8 | Codigo: P0006
+Motivo: El precio debe ser finito y mayor o igual a cero.
+
+Fila 9 | Codigo: P0007
+Motivo: Codigo repetido en el CSV. Se rechazan todas sus filas.
+
+Fila 10 | Codigo: P0007
+Motivo: Codigo repetido en el CSV. Se rechazan todas sus filas.
+
+Fila 11 | Codigo: P0008
+Motivo: La cantidad debe ser un entero mayor o igual a cero.
+
+Fila 12 | Codigo: P0009
+Motivo: El precio debe ser un numero.
+
+REGISTROS SIN CAMBIOS
+------------------------------------------------------------
+Fila 5 | Codigo: P0004

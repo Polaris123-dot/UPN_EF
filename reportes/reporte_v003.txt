@@ -1,0 +1,68 @@
+REPORTE DE ACTUALIZACION DEL CATALOGO
+============================================================
+Fecha: 2026-10-10 13:54:40 (hora del equipo)
+Catalogo original: catalogo_v001.txt
+Archivo de cambios: cambios_sin_errores.csv
+Catalogo generado: catalogo_v003.txt
+
+Productos cargados: 1200
+Productos actualizados: 10
+Filas rechazadas: 0
+Filas sin cambios: 0
+
+CAMBIOS APLICADOS
+------------------------------------------------------------
+Producto: P0001 - Arroz de 1 kg Marca Demo 01
+Fila del CSV: 2
+Cantidad: 50 -> 30
+Precio S/: 5.00 -> 5.50
+
+Producto: P0002 - Aceite de 1 litro Marca Demo 01
+Fila del CSV: 3
+Cantidad: 50 -> 40
+Precio S/: 5.00 -> 6.00
+
+Producto: P0003 - Azucar Marca Demo 01
+Fila del CSV: 4
+Cantidad: 50 -> 20
+Precio S/: 5.00 -> 4.50
+
+Producto: P0004 - Fideos tallarin Marca Demo 01
+Fila del CSV: 5
+Cantidad: 66 -> 15
+Precio S/: 4.70 -> 5.20
+
+Producto: P0005 - Fideos spaghetti Marca Demo 01
+Fila del CSV: 6
+Cantidad: 83 -> 50
+Precio S/: 5.35 -> 6.80
+
+Producto: P0006 - Harina de trigo Marca Demo 01
+Fila del CSV: 7
+Cantidad: 100 -> 80
+Precio S/: 6.00 -> 7.50
+
+Producto: P0007 - Avena Marca Demo 01
+Fila del CSV: 8
+Cantidad: 117 -> 90
+Precio S/: 6.65 -> 8.00
+
+Producto: P0008 - Lentejas Marca Demo 01
+Fila del CSV: 9
+Cantidad: 134 -> 100
+Precio S/: 7.30 -> 9.50
+
+Producto: P0009 - Frejoles Marca Demo 01
+Fila del CSV: 10
+Cantidad: 151 -> 120
+Precio S/: 7.95 -> 10.00
+
+Producto: P0010 - Garbanzo Marca Demo 01
+Fila del CSV: 11
+Cantidad: 168 -> 150
+Precio S/: 8.60 -> 11.20
+
+REGISTROS RECHAZADOS
+------------------------------------------------------------
+REGISTROS SIN CAMBIOS
+------------------------------------------------------------
